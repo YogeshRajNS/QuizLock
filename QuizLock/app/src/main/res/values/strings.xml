@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizLock</string>
+    <string name="service_label">QuizLock app guard</string>
+    <string name="service_description">Detects when you open a locked app and asks 5 RAG / GenAI / Agentic AI questions before letting it open. It reads only the name of the app on screen, nothing else.</string>
+</resources>
